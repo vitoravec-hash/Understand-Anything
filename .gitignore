@@ -14,3 +14,8 @@ homepage/public/demo/
 .private/
 __pycache__/
 *.pyc
+
+# Local testing and config tools
+ecosystem.config.cjs
+langfuse/
+portal/
